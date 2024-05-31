@@ -1,0 +1,68 @@
+body{
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+}
+#header{
+    width: 1200px;
+    height: 200px;
+    
+}
+#header-top{
+    width: 1200px;
+    height: 145px;
+    
+}
+#header-top span p{
+    padding-top: 60px;
+    font-size: 18px;
+}
+#header-menu{
+    margin-top: 5px;
+    width: 1200px;
+    height: 50px;
+    
+}
+.menu{
+    list-style-type: none;
+    width: 900px;
+    height: 50px;
+    margin: 0 0 0 0;
+    float: left;
+}
+.menu ul{
+list-style-type: none;
+margin: 0 0 0 0 ;
+}
+.menu ul li{
+    float: left;
+    color: #fff;
+    height: 40px;
+    padding-top:15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-weight:bold;
+}
+.menu ul li:hover{
+    background-color: rgb(0, 128, 64);
+    height: 35px;
+}
+.gachchan{
+    text-decoration: none;
+    color: black;
+}
+.menu-right{
+    width: 300px;
+    height: 50px;
+    float: left;
+}
+.icon{
+    float: left;
+}
+.user{
+    float: left;
+}
+.user p{
+    font-size: 17px;
+}
+
